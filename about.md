@@ -1,34 +1,9 @@
 ---
 layout: page
 ---
-### Опыт работы
-<div class="-container">
-  <div class="grid">
-    <div class="cell cell--4">Август 2018 — по настоящее время</div>
-    <div class="cell cell--4"><b>Частный репетитор</b></div>
-  </div>
-  <div class="grid">
-      <div class="cell cell--4"></div>
-      <div class="cell cell--4">Подготовка учеников к ЕГЭ, ОГЭ, ДВИ по математике и информатике
-Обучение детей от 11 лет программированию
-Выполнение домашних, лабораторных и курсовых работ по программированию</div>
-  </div>
-</div>
 
-<br>
+{% include __about.html %}
 
-<div class="-container">
-  <div class="grid">
-    <div class="cell cell--4">Сентябрь 2020 — февраль 2022</div>
-    <div class="cell cell--4"><b>Full-stack разработчик</b></div>
-  </div>
-  <div class="grid">
-      <div class="cell cell--4">1 год 6 месяцев</div>
-      <div class="cell cell--4">Санкт-Петербург, <a href="https://webim.ru/">webim.ru</a> <br>Информационные технологии, системная интеграция, интернет
-      Системная интеграция, автоматизации технологических и бизнес-процессов предприятия, ИТ-консалтинг
-      </div>
-  </div>
-</div>
 ### Ключевые навыки
 **backend**
 
